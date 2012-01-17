@@ -1,0 +1,69 @@
+Update Log
+1.3.4
+ - added naga assassin and longbow
+ - added elvish prowler and trapper
+
+1.3.3
+ - khalifate removed
+
+1.3.2
+ - cleaning of macros
+ - dwarvish miner added
+
+1.3
+- continuation on the era
+- changed arcane attack of orcish shaman to cold (less powerfull against undead and drakes doesn't suffer that much from the curse anyway)
+- added some custom random map generators
+
+1.2.1
+-that uncurse hurts...
+-clean up filesystem
+
+1.2
+-hopely fixed annoying bug on advancing units with curse (randomly keep with low def)
+-cursed units are now in red tone instead having overlay
+
+1.1
+-some minor bugfixes
+
+1.0.1:
+-update healing ability for wood druid to match description
+-disabled nailers for recruit
+-decreased slighly exp need for orcish shaman
+-fixed experience for hunters (elvish and naga)
+-removed cavestalk from level 1 scout
+-----------------------------------------------------
+1.0:
+
+units added:
+-dwarves
+	dwarvish scout line (mixed UMC, mainline in 1.8) (scout > pathfinder > explorer)
+	dwarvish runesmith (from SoF) (runesmith > runemaster > arcanister)
+-outlaws
+	exiled alchemist (Wood warriors, BEEM) (alchemist > wood druid > legendary sorceror)
+	Rogue Mage (Liberty) (roque mage > shadow mage > shadow lord
+-orcs
+	orcish shaman (SotBE) (novice > shaman > older)
+-seafolk
+	brawler (Dead Water) (only lvl 1 but with custom amla)
+	Naga Guardian (UtBS, mixed UMC) (guardian > warden > sentinel)
+	Naga Hunter (UtBS) (only lvl 1)
+-goblins
+	nailers (more for fun, probaly will removing them...) (nailers > spikers > stablers)
+-drakes
+	light spirit (Celestials) (for balancing proposals)
+
+-------------------------------------------------------------
+
+abilities and weapon specials:
+	self, on the Forum and Nighmares of Meloen
+-------------------------------------------------
+
+each faction should now have a healer and a poisoner such as a faction only special
+
+------------------------------------------------
+
+hadn't touch the loyalist neither the undead (thinking of an unit for the undead..)
+
+-------------------------------------------------
+for any ideas, balancing proposals and such, feel free to contact me at sjrs456@yahoo.fr
